@@ -8,6 +8,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/get-started" element={<GetStarted />} />
+        {/* hello devvvvv */}
       </Routes>
     </Router>
   );
